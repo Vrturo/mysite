@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel="stylesheet" type="text/css" href="mysite.css">
+<title>My Site</title>
+</head>
+  <body>
+    <div class="nav_bar">
+      <ul>
+        <li><a href="mysite">Home</a></li>
+        <li><a href="mysite">About</a></li>
+        <li><a href="mysite">Work</a></li>
+        <li><a href="mysite">Resume</a></li>
+        <li><a href="mysite">Contact</a></li>
+      </ul>
+    </div>
+    <div class = "background_img"> </div>
+  </body>
+</html>

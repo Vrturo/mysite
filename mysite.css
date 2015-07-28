@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+  margin-top: 10%;
+}
+.nav_bar {
+ float: right;
+}
+li {
+  display: inline;
+  font-family: "Papyrus";
+  padding-left: 5%;
+  font-size: 24px;
+  color: white ;
+}
+
+a { color: inherit; }
+
+.background_img {
+  background-image: url("http://themes.pixelb.in/induction/wp-content/uploads/2013/06/IMG_5776.jpg");
+  background-repeat: no-repeat;
+  background-size: 90% 100%;
+  height: 600px;
+  opacity: 0.7;
+}
+
+
